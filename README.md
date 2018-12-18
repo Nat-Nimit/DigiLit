@@ -31,12 +31,14 @@ Balossi, Giuseppina._A Corpus Linguistic Approach to Literary Language and Chara
 
 เครื่องมือที่ใช้ในการเขียนโปรแกรมนี้ มีดังนี้
 - [NLTK Toolkit](https://www.nltk.org)
-- [NumPy] (http://www.numpy.org)
-- [matplotlib] (https://matplotlib.org)
-- [PrettyTable] (https://pypi.org/project/PrettyTable/)
+- [NumPy](http://www.numpy.org)
+- [matplotlib](https://matplotlib.org)
+- [PrettyTable](https://pypi.org/project/PrettyTable/)
 
 ## ผลการดำเนินการ
-
+จากการดำเนินการ ได้ผลที่พึงพอใจ แม้จะตัดแบ่งบทหรือตอนของเรื่องได้ไม่ตรงนัก แต่ที่ได้ก็สามารถทำให้เห็นโครงเรื่องได้ว่าช่วงใดที่ตัวละคนปรากฏร่วม 
+ จะเห็นได้จากตัวอย่างงานที่นำมาศึกษา เช่น Measure for Measure ![im1](https://github.com/Nat-Nimit/raw-data/blob/master/7A476546-D704-414A-9156-27D586A0DEBF.jpeg) หรือในเรื่อง Moby Dick ![im2](https://github.com/Nat-Nimit/raw-data/blob/master/73166E2B-B99B-4E45-9DB2-0CD524A7DD40.jpeg)
+นอกจากนี้เมื่อลองดูการกระจายตัวของคำสรรพนาม หรือPOSแล้วพบว่ามีข้อมูลที่น่าศึกษาต่อเช่น สัดส่วนคำสรรพนามกับมุมมองการเล่าเรื่อง เช่นใน Measure for Measure มีสรรพนามบุรุษที่ 2 มากพอกับบุรุษที่ 3 อาจจะเป็นเพราะเป็นบทละครพูด [im3](https://github.com/Nat-Nimit/raw-data/blob/master/094D63C0-ABE5-4F83-A24E-81AA70465AEA.jpeg) ส่วนใน _Narrative of the Life of Frederick Douglass, an American Slave_ พบรูปแบบที่ต่างออกไป [im5](https://github.com/Nat-Nimit/raw-data/blob/master/BF33F4CE-F04B-420A-9EA6-AED04BE683DB.jpeg) จะเห็นว่าสรรพนามบุรุษที่สองมีจำนวนน้อยมาก เช่นกันกับสัดส่วน CONTENT WORDS VS FUNCTION WORDS ที่คนเขียนคนเดียวกันแต่มีสัดส่วนที่ต่างกันว่ามีปัจจัยอะไรเข้ามาเกี่ยวข้อง [im4](https://github.com/Nat-Nimit/raw-data/blob/master/5BD9C92D-3FB2-4D0B-B30F-74A613FA7546.jpeg) จะเห็นได้ว่าตอนต้นกับท้ายมีสัดส่วนที่ต่างออกไป 
 
 ## อุปสรรค
 
