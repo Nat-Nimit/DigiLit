@@ -27,11 +27,15 @@ Balossi, Giuseppina._A Corpus Linguistic Approach to Literary Language and Chara
 พยายามหาวิธีการในการแยกข้อมูลออกเป็นส่วน ๆ ว่าจะทำอย่างไรได้บ้าง  
 หลังจากการดำเนินการ พยายามแก้โค้ดให้สั้นลงและจัดให้โค้ดที่ดำเนินการคล้ายกันอยู่ในขั้นตอนเดียวกัน
 
-ศึกษาการใช้ Numpy, pyplot, time, sys.stdout, การรวม list, การหาsubsetใน list, เป็นต้น
+ศึกษาการใช้ numpy, pyplot, time, sys.stdout, การรวม list, การหาsubsetใน list เป็นต้น
 
+เครื่องมือที่ใช้ในการเขียนโปรแกรมนี้ มีดังนี้
+- [NLTK Toolkit](https://www.nltk.org)
+- [NumPy] (http://www.numpy.org)
+- [matplotlib] (https://matplotlib.org)
+- [PrettyTable] (https://pypi.org/project/PrettyTable/)
 
 ## ผลการดำเนินการ
-
 
 
 ## อุปสรรค
